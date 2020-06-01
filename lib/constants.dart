@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
 // Sizes
-const sizeS = 12.0;
-const sizeM = 18.0;
-const sizeL = 24.0;
-const sizeXL = 32.0;
-const sizeXXL = 48.0;
-const sizeHUGE = 72.0;
+const sizeS = 10.0;
+const sizeM = 16.0;
+const sizeL = 20.0;
+const sizeXL = 28.0;
+const sizeXXL = 42.0;
+const sizeHUGE = 64.0;
 
 // Colors
 const kReusableCardTextColor = Color(0xFF8D8E98);

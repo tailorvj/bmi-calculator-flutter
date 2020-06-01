@@ -27,7 +27,7 @@ class CustomIconContent extends StatelessWidget {
         Text(
           text,
           style: TextStyle(
-            fontSize: sizeL,
+            fontSize: sizeM,
             color: color,
           ),
         ),

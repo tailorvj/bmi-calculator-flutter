@@ -18,8 +18,8 @@ class RoundIconButton extends StatelessWidget {
       onPressed: onPressed,
       elevation: 0,
       constraints: BoxConstraints.tightFor(
-        width: sizeXXL,
-        height: sizeXXL,
+        width: 56.0,
+        height: 56.0,
       ),
       shape: CircleBorder(),
       fillColor: kReusableCardTextColor,

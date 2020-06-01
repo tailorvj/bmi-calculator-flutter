@@ -2,6 +2,9 @@
 
 Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). 
 
+![BMI Calc Results](docs/images/bmi-calc-stats-screen-300px.png)
+![BMI Calc Results](docs/images/bmi-calc-results-screen-300px.png)
+
 Authored as part of the London App Brewery Flutter UI course.
 
 ## Uses

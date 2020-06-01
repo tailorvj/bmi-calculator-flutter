@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
 // Sizes
-const sizeS = 10.0;
-const sizeM = 16.0;
-const sizeL = 20.0;
-const sizeXL = 28.0;
-const sizeXXL = 42.0;
-const sizeHUGE = 64.0;
+const sizeS = 8.0;
+const sizeM = 14.0;
+const sizeL = 18.0;
+const sizeXL = 24.0;
+const sizeXXL = 36.0;
+const sizeHUGE = 56.0;
 
 // Colors
 const kReusableCardTextColor = Color(0xFF8D8E98);
@@ -57,7 +57,7 @@ const kResultCategoryText =
 const kBigNumberTextStyle =
   TextStyle(
     color: kIconColor,
-    fontSize: sizeHUGE,
+    fontSize: sizeXXL,
     fontWeight: FontWeight.w900,
     fontFamily: 'BebasNeue',
   );

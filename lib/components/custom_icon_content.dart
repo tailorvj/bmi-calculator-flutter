@@ -18,7 +18,7 @@ class CustomIconContent extends StatelessWidget {
       children: <Widget>[
         Icon(
           icon,
-          size: sizeHUGE,
+          size: sizeXXL,
           color: kIconColor,
         ),
         SizedBox(

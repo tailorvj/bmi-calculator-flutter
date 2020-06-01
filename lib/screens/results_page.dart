@@ -22,7 +22,7 @@ class ResultsPage extends StatelessWidget {
         children: <Widget>[
           Expanded(
             child: Padding(
-              padding: EdgeInsets.only(top: sizeXXL),
+              padding: EdgeInsets.only(top: sizeL),
               child: Text(
                 'Your Result', 
                 style: kYourResultTextTitle,
